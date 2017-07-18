@@ -6,7 +6,7 @@ My starter project at [Heroku](http://www.heroku.com) involved working with
 Rails and PostGIS to finding the N nearest things to a point. It was fun
 creating:
 
-* [A demo](http://http://heroku-starter-project.herokuapp.com/near)
+* [A demo](http://heroku-starter-project.herokuapp.com/near)
 * [Documentation in the style of Dev Center](http://heroku-starter-project.herokuapp.com/pages/dev-center-article)
 * [A keynote of my findings](http://heroku-starter-project.herokuapp.com/keynote)
 
