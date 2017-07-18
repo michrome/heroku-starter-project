@@ -8,9 +8,9 @@ creating:
 
 * [A demo](http://http://heroku-starter-project.herokuapp.com/near)
 * [Documentation in the style of Dev Center](http://heroku-starter-project.herokuapp.com/pages/dev-center-article)
-* [A keynote of my findings](http://http://heroku-starter-project.herokuapp.com/keynote)
+* [A keynote of my findings](http://heroku-starter-project.herokuapp.com/keynote)
 
-## Thanks…
+## Thanks…
 
 * Abe Pursell
 * Clint Shryock
